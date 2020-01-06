@@ -1,2 +1,1 @@
-# Digital Signal Processing Lab
-This is a project in NYU Tandon DSP_lab course.  
+This is a final project in NYU Tandon DSP_lab course.  
